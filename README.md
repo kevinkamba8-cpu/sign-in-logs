@@ -9,8 +9,8 @@ Entra ID.<br />
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Sign-In Logs </h2> 
 <p> 
-<img width="1916" height="886" alt="image" 
-src="https://github.com/user-attachments/assets/bae0b986-2d53-474f-9a86-c07b9b545a72" /> 
+<<img width="1920" height="920" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/f6105af9-1d91-4158-ad38-e66d3bc96543" />
+> 
 </p> 
 <p> 
 Sign-In Logs of ourselves to interpret our own sign-in activity. 
